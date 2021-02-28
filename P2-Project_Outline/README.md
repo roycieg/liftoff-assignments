@@ -7,12 +7,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Let's Go Travel 
+Let's Go Travel allows people to search travel information including,
+but not limited to eating spots beyond the tourist locations, things
+to do and documents required for travel including links. 
 ### Features
-Include Features here
+Link to official U.S. Passport Site; U.S. Embassies; Visa information;
+currency exchange rates; vaccination requirements; etc.  All things
+travel. 
 ### Technologies
-Include Technologies here
+not certain I understand the ask here
 ### What I'll Have to Learn
-Include what you will need to learn here
+not yet sure yet
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/t7xsT5B6/roycies-liftoff-challenge
