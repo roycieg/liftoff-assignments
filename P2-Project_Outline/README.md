@@ -7,17 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Let's Go Travel 
-Let's Go Travel allows people to search travel information including,
-but not limited to eating spots beyond the tourist locations, things
-to do and documents required for travel including links. 
+As a Coffee Drinker
+I want a calming coffee
+Because I have trouble sleeping at night.
 ### Features
-Link to official U.S. Passport Site; U.S. Embassies; Visa information;
-currency exchange rates; vaccination requirements; etc.  All things
-travel. 
+Search: Users will be able to search for coffee types based on desired
+outcome (sleep, energy, sinus, appetite suppression)
+Create Post: Users will be able to create new blog posts when logged in. Users
+will be able to tag other users and businesses. 
 ### Technologies
-not certain I understand the ask here
+Java
+Spring Boot
+MySQL
+API
 ### What I'll Have to Learn
-not yet sure yet
+Review Java and MySQL
 ### Project Tracker
 https://trello.com/b/t7xsT5B6/roycies-liftoff-challenge
